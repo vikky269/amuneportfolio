@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.no-scrollbar::-webkit-scrollbar {
+    display: none; /* Hide scrollbar for Webkit browsers (e.g., Chrome, Safari) */
+  }
+  
