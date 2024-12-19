@@ -41,14 +41,15 @@ const AboutPage = () => {
             <h1 className="font-bold text-2xl">BIOGRAPHY</h1>
             {/* BIOGRAPHY DESC */}
             <p className="text-lg">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum
-              harum quibusdam cupiditate nobis accusamus sed aut aperiam,
-              reiciendis numquam! Voluptas voluptatibus obcaecati dolore itaque
-              suscipit! Vel doloremque numquam quam nihil.
+            I am Amune Victor Efi, a skilled Frontend Developer with expertise in React.js, Vue.js, Next.js, and Nuxt.js. 
+            I create responsive, user-friendly web applications using tools like Tailwind CSS, Daisy UI, and Ant Design.
+            With a Bachelor's degree in Biomedical Engineering from the University of Lagos, I bring analytical and problem-solving skills to every project.
+            My portfolio features diverse projects, including full-stack chat apps, dashboards, and recipe platforms, showcasing my dedication to functional design and seamless user experiences.
+            I’m passionate about innovation and excited to contribute to impactful projects in the tech space.
             </p>
             {/* BIOGRAPHY QUOTE */}
             <span className="italic">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit.
+            The future depends on what you do today.
             </span>
             {/* BIOGRAPHY SIGN SVG*/}
             <div className="self-end">
@@ -205,15 +206,16 @@ const AboutPage = () => {
                   </div>
                   {/* JOB DESC */}
                   <div className="p-3 text-sm italic">
-                    I learnt basics of web development including html, css and JavaScript .{" "}
+                    Built foundational skills in web development  
+                    including html, css and JavaScript .{" "}
                   </div>
                   {/* JOB DATE */}
                   <div className="p-3 text-red-400 text-sm font-semibold">
-                    2OCT 024 - Present
+                    OCT - NOV 2022
                   </div>
                   {/* JOB COMPANY */}
                   <div className="p-1 rounded bg-white text-sm font-semibold w-fit">
-                    Apple
+                    Side Hustle NIG
                   </div>
                 </div>
                 {/* CENTER */}
@@ -243,20 +245,20 @@ const AboutPage = () => {
                 <div className="w-1/3 ">
                   {/* JOB TITLE */}
                   <div className="bg-white p-3 font-semibold rounded-b-lg rounded-s-lg">
-                    Senior React Developer
+                    Backend Intern
                   </div>
                   {/* JOB DESC */}
                   <div className="p-3 text-sm italic">
-                    I spearheaded React-based application development,
-                    leveraging advanced skills.{" "}
+                    Building and maintaining server side components, 
+                     Also developing API's 
                   </div>
                   {/* JOB DATE */}
                   <div className="p-3 text-red-400 text-sm font-semibold">
-                    2019 - 2024{" "}
+                    NOV 2024 - PRESENT
                   </div>
                   {/* JOB COMPANY */}
                   <div className="p-1 rounded bg-white text-sm font-semibold w-fit">
-                    Microsoft
+                    Sail innovation Lab
                   </div>
                 </div>
               </div>
@@ -266,7 +268,7 @@ const AboutPage = () => {
                 <div className="w-1/3 ">
                   {/* JOB TITLE */}
                   <div className="bg-white p-3 font-semibold rounded-b-lg rounded-s-lg">
-                    Freelancer{" "}
+                    Freelance Web Designer
                   </div>
                   {/* JOB DESC */}
                   <div className="p-3 text-sm italic">
@@ -275,7 +277,7 @@ const AboutPage = () => {
                   </div>
                   {/* JOB DATE */}
                   <div className="p-3 text-red-400 text-sm font-semibold">
-                    2010 - 2019{" "}
+                    NOV 2024 - PRESENT
                   </div>
                 </div>
                 {/* CENTER */}
