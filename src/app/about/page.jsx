@@ -43,7 +43,7 @@ const AboutPage = () => {
             <p className="text-lg">
             I am Amune Victor Efi, a skilled Frontend Developer with expertise in React.js, Vue.js, Next.js, and Nuxt.js. 
             I create responsive, user-friendly web applications using tools like Tailwind CSS, Daisy UI, and Ant Design.
-            With a Bachelor's degree in Biomedical Engineering from the University of Lagos, I bring analytical and problem-solving skills to every project.
+            With a degree in Biomedical Engineering from the University of Lagos, I bring analytical and problem-solving skills to every project.
             My portfolio features diverse projects, including full-stack chat apps, dashboards, and recipe platforms, showcasing my dedication to functional design and seamless user experiences.
             I am passionate about innovation and excited to contribute to impactful projects in the tech space.
             </p>
