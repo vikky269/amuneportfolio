@@ -45,7 +45,7 @@ const AboutPage = () => {
             I create responsive, user-friendly web applications using tools like Tailwind CSS, Daisy UI, and Ant Design.
             With a Bachelor's degree in Biomedical Engineering from the University of Lagos, I bring analytical and problem-solving skills to every project.
             My portfolio features diverse projects, including full-stack chat apps, dashboards, and recipe platforms, showcasing my dedication to functional design and seamless user experiences.
-            I’m passionate about innovation and excited to contribute to impactful projects in the tech space.
+            I'm passionate about innovation and excited to contribute to impactful projects in the tech space.
             </p>
             {/* BIOGRAPHY QUOTE */}
             <span className="italic">
